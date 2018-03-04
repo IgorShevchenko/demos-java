@@ -1,2 +1,2 @@
 # demos-java
-Hands on programming concepts, design patterns, or particular language features
+Hands on Java language features and coding concepts
